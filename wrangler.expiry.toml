@@ -1,0 +1,8 @@
+name = "edgetunnel-expiry"
+main = "entry.js"
+compatibility_date = "2026-10-13"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
